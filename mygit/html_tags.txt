@@ -1,0 +1,11 @@
+<html></html>
+<head></head>
+<body></body>
+<title></title>
+<p></p>-paragraph
+<b></b>-bold
+<u></u>-underline
+<br>-break
+<h1></h1> to <h6></h6>-headers
+<a href = "url"></a>-anchor tag to open websites
+<img src = "url or path"  alt = ""></img>  to add images
